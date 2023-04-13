@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=C:\FLUTTER"
-export "FLUTTER_APPLICATION_PATH=C:\Users\tdinas\Documents\PROJECTS\my_projects\Tutorials\husky_issue_package"
+export "FLUTTER_APPLICATION_PATH=C:\Users\tdinas\Documents\PROJECTS\my_projects\Tutorials\husky-issue-app\packages\husky_issue_package"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=0.0.1"
